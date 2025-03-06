@@ -125,42 +125,47 @@ namespace Assignment1
             }
         }
 
-        static void Main(string[] args)
-        {
-            Program program = new Program();
-            bool exit = false;
+        //static void Main(string[] args)
+        //{
+        //    ClassA a = new ClassA();
+        //    a.Name = "Ajinkhky";
 
-            while (!exit)
-            {
-                Console.WriteLine("\nMenu:");
-                Console.WriteLine("1. Convert Datatype");
-                Console.WriteLine("2. String Opearation");
-                Console.WriteLine("3. Append to File");
-                Console.WriteLine("4. Exit");
-                Console.Write("Choose an option (1-4): ");
+        //    Console.WriteLine(a.Name);
 
-                string choice = Console.ReadLine();
+        //    Program program = new Program();
+        //    bool exit = false;
 
-                switch (choice)
-                {
-                    case "1":
-                        program.check_datatype();
-                        break;
-                    case "2":
-                        program.string_operation();
-                        break;
-                    case "3":
-                        program.file_operation();
-                        break;
-                    case "4":
-                        exit = true;
-                        Console.WriteLine("stop.");
-                        break;
-                    default:
-                        Console.WriteLine("Invalid Input.");
-                        break;
-                }
-            }
-        }
+        //    while (!exit)
+        //    {
+        //        Console.WriteLine("\nMenu:");
+        //        Console.WriteLine("1. Convert Datatype");
+        //        Console.WriteLine("2. String Opearation");
+        //        Console.WriteLine("3. Append to File");
+        //        Console.WriteLine("4. Exit");
+        //        Console.Write("Choose an option (1-4): ");
+
+        //        string choice = Console.ReadLine();
+
+        //        switch (choice)
+        //        {
+        //            case "1":
+        //                program.check_datatype();
+        //                break;
+        //            case "2":
+        //                program.string_operation();
+        //                break;
+        //            case "3":
+        //                program.file_operation();
+        //                break;
+        //            case "4":
+        //                exit = true;
+        //                Console.WriteLine("stop.");
+        //                break;
+        //            default:
+        //                Console.WriteLine("Invalid Input.");
+        //                break;
+        //        }
+        //    }
+        //}
     }
 }
