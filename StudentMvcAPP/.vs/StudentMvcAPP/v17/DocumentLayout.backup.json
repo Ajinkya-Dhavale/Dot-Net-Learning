@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|e:\\dot net workshop\\college assignment\\studentmvcapp\\studenttestapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{927BDE3F-6C5C-4828-9621-C8B60982F5D6}|StudentTestApp\\StudentTestApp.csproj|solutionrelative:studenttestapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTestApp\\Models\\Student.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentTestApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:48:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentTestApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentTestApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:34:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentTestApp\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentTestApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAADg/////z8lwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:30:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentTestApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentTestApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAACgzMzMzMw3wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:50:17.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentTestApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentTestApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T04:49:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTestApp\\Program.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Program.cs",
+              "RelativeToolTip": "StudentTestApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:46:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentTestApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentTestApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAABAMTMzMzMbwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T04:49:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentTestApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentTestApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:50:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentTestApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentTestApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:24:15.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

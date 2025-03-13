@@ -1,0 +1,26 @@
+﻿@model StudentTestApp.Models.Student
+
+@{
+    ViewData["Title"] = "Student Form";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" asp-action="Index">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="Name" value="@Model?.Name" required />
+    </div>
+    <div>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="Age" value="@Model?.Age" required />
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+@if (Model != null && !string.IsNullOrEmpty(Model.Name))
+{
+    <h2>Submitted Data</h2>
+    <p>Name: @Model.Name</p>
+    <p>Age: @Model.Age</p>
+}
