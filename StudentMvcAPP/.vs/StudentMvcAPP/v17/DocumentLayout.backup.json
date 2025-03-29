@@ -58,8 +58,7 @@
               "RelativeToolTip": "StudentTestApp\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T05:48:28.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T05:48:28.493Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "StudentTestApp\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T05:34:26.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T05:34:26.93Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "StudentTestApp\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAYAAADg/////z8lwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T05:30:18.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T05:30:18.928Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "StudentTestApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAACgzMzMzMw3wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T04:50:17.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T04:50:17.51Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "StudentTestApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T04:49:43.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T04:49:43.533Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "StudentTestApp\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T04:46:10.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T04:46:10.615Z"
             },
             {
               "$type": "Document",
@@ -134,7 +128,7 @@
               "RelativeDocumentMoniker": "StudentTestApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\StudentMvcAPP\\StudentTestApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "StudentTestApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAgAAABAMTMzMzMbwBAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T04:49:38.581Z",
               "EditorCaption": ""
@@ -149,8 +143,7 @@
               "RelativeToolTip": "StudentTestApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T04:50:53.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T04:50:53.343Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "StudentTestApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T05:24:15.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T05:24:15.819Z"
             }
           ]
         }

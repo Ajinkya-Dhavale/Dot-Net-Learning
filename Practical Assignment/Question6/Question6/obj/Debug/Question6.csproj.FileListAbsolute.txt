@@ -1,0 +1,10 @@
+E:\Dot Net Workshop\Assignment\Question6\Question6\bin\Debug\Question6.exe.config
+E:\Dot Net Workshop\Assignment\Question6\Question6\bin\Debug\Question6.exe
+E:\Dot Net Workshop\Assignment\Question6\Question6\bin\Debug\Question6.pdb
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.csproj.AssemblyReference.cache
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.Form1.resources
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.Properties.Resources.resources
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.csproj.GenerateResource.cache
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.csproj.CoreCompileInputs.cache
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.exe
+E:\Dot Net Workshop\Assignment\Question6\Question6\obj\Debug\Question6.pdb

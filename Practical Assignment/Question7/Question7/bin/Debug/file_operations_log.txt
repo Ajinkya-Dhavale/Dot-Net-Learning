@@ -1,0 +1,19 @@
+29-03-2025 06:53:32: File 'example.txt' created and written to.
+29-03-2025 06:53:33: File 'example.txt' read.
+29-03-2025 06:53:33: Additional text appended to 'example.txt'.
+29-03-2025 06:53:33: File 'example.txt' copied to 'copy_example.txt'.
+29-03-2025 06:53:33: File 'copy_example.txt' moved to 'moved_example.txt'.
+29-03-2025 06:53:33: File 'example.txt' deleted.
+29-03-2025 06:53:33: File 'moved_example.txt' exists.
+29-03-2025 06:54:29: File 'example.txt' created and written to.
+29-03-2025 06:54:29: File 'example.txt' read.
+29-03-2025 06:54:29: Additional text appended to 'example.txt'.
+29-03-2025 06:54:29: File 'example.txt' copied to 'copy_example.txt'.
+29-03-2025 06:54:29: Error: Cannot create a file when that file already exists.
+
+29-03-2025 06:55:23: File 'example.txt' created and written to.
+29-03-2025 06:55:23: File 'example.txt' read.
+29-03-2025 06:55:23: Additional text appended to 'example.txt'.
+29-03-2025 06:55:23: File 'example.txt' copied to 'copy_example.txt'.
+29-03-2025 06:55:23: Error: Cannot create a file when that file already exists.
+
