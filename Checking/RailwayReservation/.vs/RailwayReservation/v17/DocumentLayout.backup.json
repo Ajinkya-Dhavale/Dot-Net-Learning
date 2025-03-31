@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|e:\\dot net workshop\\college assignment\\checking\\railwayreservation\\railwayreservation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|solutionrelative:railwayreservation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|e:\\dot net workshop\\college assignment\\checking\\railwayreservation\\railwayreservation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|solutionrelative:railwayreservation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|e:\\dot net workshop\\college assignment\\checking\\railwayreservation\\railwayreservation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E03C79-D9E2-47F9-AE31-FCF9CC03BAD2}|RailwayReservation\\RailwayReservation.csproj|solutionrelative:railwayreservation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.cs",
+              "RelativeDocumentMoniker": "RailwayReservation\\Form1.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.cs [Design]",
+              "RelativeToolTip": "RailwayReservation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:22:45.047Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RailwayReservation\\Form1.Designer.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.Designer.cs",
+              "RelativeToolTip": "RailwayReservation\\Form1.Designer.cs",
+              "ViewState": "AgIAALAAAAAAyczMzIwiwMQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:38:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.cs",
+              "RelativeDocumentMoniker": "RailwayReservation\\Form1.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\RailwayReservation\\RailwayReservation\\Form1.cs",
+              "RelativeToolTip": "RailwayReservation\\Form1.cs",
+              "ViewState": "AgIAADQAAACAX2ZmZmYowD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:24:55.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
