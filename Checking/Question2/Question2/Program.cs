@@ -3,21 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyOperations;
 
 
 namespace Question2
 {
     public delegate void Mydelegrate(String msg);
-
-    public class MyCustomException : Exception
-    {
-
-        public MyCustomException(string message) : base(message)
-        {
-        }
-    }
-
-    public delegate void OperationDelegate();
 
     internal class Program
     {
@@ -31,36 +22,6 @@ namespace Question2
         //}
 
 
-        public void PerformDivision(int a, int b)
-        {
-            if (b == 0)
-            {
-                throw new MyCustomException("Division by zero error.");
-            }
-            Console.WriteLine("Result: " + (a / b));
-        }
-
-        public void AccessArrayElement(int[] array, int index)
-        {
-            if (index < 0 || index >= array.Length)
-            {
-                throw new MyCustomException("Index out of range error.");
-            }
-            Console.WriteLine("Element: " + array[index]);
-        }
-
-        static void ExecuteWithDelegate(OperationDelegate operation)
-        {
-            try
-            {
-                operation();
-            }
-            catch (MyCustomException ex)
-            {
-                Console.WriteLine($"Message: {ex.Message}");
-            }
-        }
-
         static void Main(string[] args)
         {
             //Mydelegrate mydelegrate = new Mydelegrate(msg);
@@ -72,16 +33,15 @@ namespace Question2
             //both("Ajinkya Dhavale");
 
 
-            //Question 1
-            Program operations = new Program();
+            //Question 
+            Operations operations = new Operations();
 
-            ExecuteWithDelegate(() => operations.PerformDivision(10, 1));
+            Console.WriteLine("Performing Division: 10 / 0");
+            operations.PerformDivision(10, 0);
 
-            int[] numbers = { 1, 2, 3 };
-            ExecuteWithDelegate(() => operations.AccessArrayElement(numbers, 5));
-
-
-            //Question 2
+            int[] array = { 1, 2, 3 };
+            Console.WriteLine("Accessing Element at Index 5");
+            operations.AccessArrayElement(array, 5);
 
 
         }

@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|e:\\dot net workshop\\college assignment\\checking\\question2\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|solutionrelative:question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|e:\\dot net workshop\\college assignment\\checking\\question2\\question2\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|solutionrelative:question2\\myoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|e:\\dot net workshop\\college assignment\\checking\\question2\\question2\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACEFF9C-7F2A-46D6-9A6A-D6C05F894501}|Question2\\Question2.csproj|solutionrelative:question2\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOperations.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\Checking\\Question2\\Question2\\MyOperations.cs",
+              "RelativeDocumentMoniker": "Question2\\MyOperations.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\Question2\\Question2\\MyOperations.cs",
+              "RelativeToolTip": "Question2\\MyOperations.cs",
+              "ViewState": "AgIAAAoAAABgXmZmZmYSwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:34:15.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "E:\\Dot Net Workshop\\College Assignment\\Checking\\Question2\\Question2\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "Question2\\MyCustomException.cs",
+              "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\Question2\\Question2\\MyCustomException.cs",
+              "RelativeToolTip": "Question2\\MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:33:14.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Question2\\Program.cs",
               "ToolTip": "E:\\Dot Net Workshop\\College Assignment\\Checking\\Question2\\Question2\\Program.cs",
               "RelativeToolTip": "Question2\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAYGZmZmYVwEsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T04:37:16.187Z",
               "EditorCaption": ""
